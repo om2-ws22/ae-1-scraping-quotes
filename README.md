@@ -1,8 +1,10 @@
 # Application exercise template 
 
-Use this repo to insert your code.
+Welcome to this application exercise! 👋 
 
-**Important notes:**
+**Notes:**
+
+- Open the `.ipynb` file in this repo in Visual Studio Code or in a Browser as Jupyter Notebook. 
 
 - Activate the correct conda environment before you start.
 
